@@ -1,0 +1,197 @@
+
+
+
+data science / Machine learning / AI 
+------------------------------------
+
+If you want to develop as ML solution :
+
+with coding 
+----------
+core python 
+libraries 
+- data analytics libraries ( pandasa , numpy , scipy , matplotlib )
+- Machine learning libraries ( sklearn , statsmodel)
+- Deep learning libraries ( image processing , text processing )(keras ,pytorch )
+- Gen AI libraries ( langchain llamaindex langgraph openai crewai groq )
+- APIs
+
+
+without coding 
+---------------
+- Azure Machine learning
+machine learning on Azure
+computer vision workloads on Azure 
+Natural Language Processing (NLP) workloads 
+generative AI workloads 
+Deployement 
+
+- AWS SageMaker
+- GCP services
+- Amazon Bedrock
+
+
+core python 
+-------------
+
+        R for analytics
+        SAS for analytics
+                                  data scientist/researchers
+
+2000--------------------------2010--------------------------2025
+      automations             pandasV1
+      testing
+      web development 
+      numpy,scipy (no pandas)
+
+
+
+langchain,langgraph,llamaindex,crewai,openai ( gen ai libraries )
+                                         ( generate new content )
+
+keras,tensorflow,pytorch ( deep learning libraries )( more features )
+                          ( image processing , text processing )
+                          ( more computation power , more processing )
+
+sklearn,stasmodels ( machine learning libraries )
+                   ( less columns, more numerics )
+  |
+matplotlib,seaborn,bokeh,plotly  ( data visualization libraries )
+  |
+pandas ( highlevel library for data processing )
+  |
+scipy  ( scientific formulas )
+  |
+numpy  ( low level programming - numerical python )
+
+
+C programming - datatypes
+----------
+int a = 10;
+float b = 2.43;
+char
+double 
+long
+short
+boolean
+
+python - objects 
+---------
+number 
+string 
+list
+tuple
+dictionary
+set
+
+
+number 
+----
+number can be integer or decimal or octal or hexa.
+
+aval = 10
+bval = 34.43
+
+string 
+------
+string is defined in single or double or triple quotes.
+
+aname = 'python programming'
+bname = "java progrogramming"
+cname = """unix programming"""
+dname = '''scala programming'''
+
+list ( array in C )
+-----
+list contains set of elements.
+Elements can be numbers or strings or any combination.
+list is defined in [].
+
+alist = [10,20,30]
+blist = ["java","unix",45.43]
+
+
+tuple ( immutable unchangeable uneditable )
+------
+tuple contains set of elements.
+Elements can be numbers or strings or any combination.
+tuple is defined in ().
+*** elements inside tuple cannot be modified directly ****
+
+atup = (30,40,30)
+btup = ("java","unix")
+
+
+dictionary ( json  hashmap   hash   assotiativearray   pairs    items )
+------------------
+dictionary contains keys and values.
+keys are unique and used to access value.
+key can be number or string 
+value can be number or string or list or tuple or dictionary.
+
+
+syntax:   object = {key:value , key:value , key:value }
+example:   book  = {"chap1":10, "chap2":20 , "chap3":30 }
+           data = {1:2,3:4,5:6}
+           book  = {"chap1":["rita","UK"], "chap2":["gita","US"]}
+
+index 
+------
+chap1   10
+chap2   20
+chap3   30
+chap4   40
+
+
+set 
+-----
+set is UNORDERED collection of UNIQUE values of same type.
+
+aset = {10,10,10,20,20,30,30}
+
+
+library | package | module  
+-------------------------
+There are 2 types of libraries 
+
+1. builtin libraries : are installed with python 
+
+
+2. third party libraries : Depending on requirement, developer will install.
+
+- automation( system , server, network, test , web )
+- web scraping 
+- web development
+- testing 
+- GUI tools 
+- machine learning 
+- data analytics
+- data visualizations
+- deep learning 
+- databases 
+- cloud automation
+
+
+
+data analytics 
+-------------
+
+pandas - datastuctures 
+-------
+series ( 1 - D)
+dataframe ( 2D)
+panel ( collection of dataframe )
+
+
+pandas 
+------
+csv 
+excel 
+web
+html 
+databases
+parquet 
+json 
+xml 
+hdf 
+clipboard
